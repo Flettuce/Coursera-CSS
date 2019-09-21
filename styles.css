@@ -4,7 +4,7 @@
 }
 h1 {
   margin-bottom: 15px;
-  font-family: Calibri;
+  font-family: Arial;
 }
 
 p {
@@ -14,7 +14,7 @@ p {
   height: 160px;
   margin-right: auto;
   margin-left: auto;
-  font-family: Calibri;
+  font-family: Arial;
   color: white;
 }
 
@@ -24,7 +24,6 @@ div.container {
   top: 60px;
 }
 span {
-   position:absolute;
    top:0;
    right:0;    
    border: 1px solid black;
@@ -32,7 +31,7 @@ span {
    width: 90%;
    margin-right: auto;
    margin-left: auto;
-   font-family: Calibri;
+   font-family: Arial;
    color: white;
 }
 
