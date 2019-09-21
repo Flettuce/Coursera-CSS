@@ -24,7 +24,7 @@ div.container {
   top: 60px;
 }
 
-h2 {
+h2, span, a {
    position:absolute;
    top:0;
    right:0;    
