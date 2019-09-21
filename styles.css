@@ -24,11 +24,17 @@ div#container {
   top: 60px;
 }
 
-.header {
-    position:absolute;
-    top:0;
-    right:0;    
-}
+h2 {
+   position:absolute;
+   top:0;
+   right:0;    
+   border: 1px solid black;
+   background-color: #A52A2A;
+   width: 90%;
+   margin-right: auto;
+   margin-left: auto;
+   font-family: Myriad;
+   color: white;}
 
 /* Simple Responsive Framework. */
 .row {
