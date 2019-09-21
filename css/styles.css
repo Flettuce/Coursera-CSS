@@ -30,10 +30,20 @@ span {
   border-left: 2px solid black;
   border-bottom: 2px solid black;
   padding: 5px 20px 5px 20px;
-  background-color: #192F80;
   color: white;
 }
 
+#1 {
+  background-color: #192F80;
+}
+
+#2 {
+  background-color: #6A1B9A;
+}
+
+#3 {
+  background-color: #AD1457;
+}
 .row {
   width: 100%;
 }
