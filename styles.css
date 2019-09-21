@@ -4,7 +4,7 @@
 }
 h1 {
   margin-bottom: 15px;
-  font-family: Myriad-pro;
+  font-family: Calibri;
 }
 
 p {
@@ -14,7 +14,7 @@ p {
   height: 160px;
   margin-right: auto;
   margin-left: auto;
-  font-family: Myriad-pro;
+  font-family: Calibri;
   color: white;
 }
 
@@ -23,8 +23,7 @@ div.container {
   position: relative;
   top: 60px;
 }
-
-h2, span, a {
+span {
    position:absolute;
    top:0;
    right:0;    
@@ -33,7 +32,7 @@ h2, span, a {
    width: 90%;
    margin-right: auto;
    margin-left: auto;
-   font-family: Myriad;
+   font-family: Calibri;
    color: white;
 }
 
