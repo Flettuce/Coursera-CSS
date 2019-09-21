@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  font-family: Helvetica;
+  font-weight: 800;
+  text-align: center;
+  color: #192F80;
+}
+
+p {
+  border: 2px solid black;
+  background-color: #FE5F47;
+  width: 90%;
+  padding: 38px 10px 10px 15px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Helvetica;
+  color: black;
+  position: relative;
+  top: 30px;
+}
+
+span {
+  font-family: Helvetica;
+  font-weight: 600;
+  position: absolute;
+  top:0;
+  right:0;    
+  border-left: 2px solid black;
+  border-bottom: 2px solid black;
+  padding: 5px 20px 5px 20px;
+  background-color: #192F80;
+  color: white;
+}
+
+.row {
+  width: 100%;
+}
+
+@media (min-width: 992px) {
+  .col-lg-4 {
+    float: left;
+    width: 33.33%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .col-md-4 {
+    float: left;
+    width: 50%;
+  }
+  .col-md-12 {
+    float: left;   
+    width: 100%;
+  }
+  .col-md-12 p {
+    width: 95%;
+  }
+}
