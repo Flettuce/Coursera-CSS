@@ -33,17 +33,18 @@ span {
   color: white;
 }
 
-#1 {
+#s1 {
   background-color: #192F80;
 }
 
-#2 {
+#s2 {
   background-color: #6A1B9A;
 }
 
-#3 {
+#s3 {
   background-color: #AD1457;
 }
+
 .row {
   width: 100%;
 }
