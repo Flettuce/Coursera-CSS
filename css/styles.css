@@ -1,29 +1,33 @@
 * {
   box-sizing: border-box;
 }
-h1 {
-  font-family: Helvetica;
-  font-weight: 800;
-  text-align: center;
-  color: #192F80;
-}
 
 p {
   border: 2px solid black;
   background-color: #FFE082;
   width: 90%;
-  padding: 38px 10px 10px 15px;
+  padding: 42px 10px 10px 15px;
   margin-right: auto;
   margin-left: auto;
   font-family: Helvetica;
+  font-size: 12pt;
   color: black;
   position: relative;
   top: 30px;
 }
 
+h1 {
+  font-family: Helvetica;
+  font-weight: 800;
+  font-size: 175%;
+  text-align: center;
+  color: #192F80;
+}
+
 span {
   font-family: Helvetica;
   font-weight: 600;
+  font-size: 125%;
   position: absolute;
   top:0;
   right:0;    
@@ -33,15 +37,15 @@ span {
   color: white;
 }
 
-#first {
+#s1 {
   background-color: #192F80;
 }
 
-#second {
+#s2 {
   background-color: #6A1B9A;
 }
 
-#third {
+#s3 {
   background-color: #AD1457;
 }
 
